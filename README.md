@@ -1,5 +1,5 @@
-# Projetos-Canvas
-Meus projetos no Canvas
+# Projetos-Canva
+Meus projetos no Canva
 
 **Wallpaper funcional:**
 - Sion o Colosso Morto-Vivo (e suas 5 variações)
