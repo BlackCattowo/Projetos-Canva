@@ -8,3 +8,4 @@ Meus projetos no Canva
 **Outras coisas:**
 - Certificado Canvas
 - Foto de capa do Canal "Gato Negro" do Youtube. (Link: https://www.youtube.com/@gatonegro87778/featured)
+- Flyer para a festa universitária "Boteco do Bozó"
