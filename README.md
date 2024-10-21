@@ -1,7 +1,5 @@
 # Projetos-Canva
-Meus projetos no Canva
-
-Open to commissions
+Meus projetos no Canva (*Open to commissions*)
 
 **Wallpaper funcional:**
 - Sion o Colosso Morto-Vivo (e suas 5 variações)
